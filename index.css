@@ -1,0 +1,25 @@
+.container1 {
+    display: flex;
+    background-color: #7300e6;
+    justify-content: space-between;
+    height: auto;
+  }
+.text-block{
+    background-color: #7300e6;
+    text-align: center;
+    padding: 30px;
+    color: white;
+    height: auto;
+    margin-top: 5px;
+   
+}
+.container2{
+  display: block;
+  margin-top: 50px;
+    margin-bottom: none;
+}
+.container3{
+    margin-top: none;
+    text-align: center;
+    
+}
